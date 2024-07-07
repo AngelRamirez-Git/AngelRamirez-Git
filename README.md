@@ -8,9 +8,9 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- Actualmente estudiante de Ingeniería en Sistemas Computacionales en ESCOM. 
-- Gran interés en la Seguridad Informática y Ciencia de Datos. 
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.
+- Actualmente estudiante de Ingeniería en Sistemas Computacionales en ESCOM. <br>
+- Gran interés en la Seguridad Informática y Ciencia de Datos. <br>
+- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.<br>
 - ¡Gracias por visitar mi perfil!
 
 <br><br>

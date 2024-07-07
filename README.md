@@ -1,13 +1,111 @@
-# 💫 Sobre mi:
-Hola, soy Angel ! 👋<br><br>🎓 Estudiante de Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo (ESCOM-IPN). <br><br>🌱 Aprendizaje Continuo: Siempre en búsqueda de nuevas oportunidades para aprender y mejorar mis habilidades en programación, desarrollo de software y sistemas. <br><br>💡 Intereses: Atraído por áreas como Inteligencia Artificial, Desarrollo Web, y Seguridad Informática. Estoy siempre abierto a explorar nuevas áreas dentro del amplio espectro de las ciencias computacionales.<br><br>🔍 Metas Futuras: Aspiro a convertirme en un profesional altamente cualificado en el campo de los sistemas computacionales, contribuyendo al avance tecnológico y a la solución de problemas complejos a través de la innovación.<br><br>📫 Contacto: Siéntete libre de conectarte conmigo para colaboraciones, proyectos o simplemente para intercambiar ideas. ¡Estoy más que feliz de conectar con personas que comparten mi pasión por la tecnología!<br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_angel.rmz_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_angeltarolero_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_AngelTarolero_) 
+<h1 align="center"><b>Hola , soy Angel! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+- Actualmente estudiante de Ingeniería en Sistemas Computacionales en ESCOM. 
+- Gran interés en la Seguridad Informática y Ciencia de Datos. 
+- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral.
+- ¡Gracias por visitar mi perfil!
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Lenguajes**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Contáctame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/angel-humberto-ramírez-contreras/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Linkedin.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://x.com/_AngelTarolero_" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  X.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:angelhumbertor@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail: Gmail.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<br>
+
+<br>
+<br>
+
+---
+
+<br>
